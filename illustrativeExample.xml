@@ -2,7 +2,7 @@
 <LexicalResource
     name="div-illustrativeExample"       
     prefix="ex1" 
-    xmlns:ex="https://github.com/francisjqr/ER-Wordnet-Extension/illustrativeExample.xml"
+    xmlns:ex="https://github.com/francisjqr/ER-Wordnet-Extension/blob/master/illustrativeExample.xml"
     xmlns:wn31="https://github.com/diversicon-kb/diversicon-wordnet-3.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="http://diversicon-kb.eu/schema/1.0/diversicon.xsd">
