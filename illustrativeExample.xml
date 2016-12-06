@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LexicalResource
+    name="div-illustrativeExample"       
+    prefix="ex1" 
+    xmlns:ex="https://github.com/francisjqr/ER-Wordnet-Extension/illustrativeExample.xml"
+    xmlns:wn31="https://github.com/diversicon-kb/diversicon-wordnet-3.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://diversicon-kb.eu/schema/1.0/diversicon.xsd">
+    
+    <GlobalInformation label="Illustrative Example (ISCRAM17) - UKCP Glossary"></GlobalInformation>
+    
+    <MetaData id="ex1_md"
+        creationDate="2016-11-19"
+        creationTool="text editor"
+        version="1.0"   
+        creationProcess="by hand"
+        automatic="false"
+    />    
+    <Lexicon id="ex1_lex_eng"
+        languageIdentifier="eng" 
+        name="Example UKCP English lexicon">
+        
+        <!------------------ Lexical entries ----------------------->    
+        <LexicalEntry id="ex1_le_agency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="agency"/>
+            </Lemma>
+            <Sense id="ex1_s_agency" 
+                synset="wn31_ss_n8024893">   
+                <MonolingualExternalRef externalSystem="UCKP" 
+                    externalReference="####"/>
+            </Sense>
+        </LexicalEntry>
+        <LexicalEntry id="ex1_le_air_ambulance" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="air ambulance"/>
+            </Lemma>
+            <Sense id="ex1_s_air_ambulance" 
+                synset="ex1_ss_air_ambulance">
+                <MonolingualExternalRef externalSystem="UCKP" 
+                    externalReference="####"/>
+            </Sense>
+        </LexicalEntry>
+        <LexicalEntry id="ex1_le_responder" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="responder"/>+
+            </Lemma>
+            <Sense id="ex1_s_responder" 
+                synset="ex1_ss_responder">
+                <MonolingualExternalRef externalSystem="UCKP" 
+                    externalReference="####"/>
+            </Sense>
+        </LexicalEntry>	
+        <!-------------------- Synsets ---------------------------->  	
+        <Synset id="ex1_ss_air_ambulance">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Aircraft (usually a helicopter) used primarily to transport medical or paramedical staff to the site of an incident or emergency and casualties to specialist trauma centres and/or designated hospitals."/>
+            </Definition>
+            
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="######"/>
+            
+            <SynsetRelation target="wn31_ss_n2689427" 
+                relType="taxonomic" 
+                relName="hypernym"/>             
+        </Synset>
+        <Synset id="ex1_ss_responder">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Organisation required to plan and prepare a response to an emergency."/>
+            </Definition>
+            
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="######"/>
+            
+            <SynsetRelation target="wn31_ss_n8024893" 
+                relType="taxonomic" 
+                relName="hypernym"/>             
+        </Synset>
+        
+    </Lexicon>  
+    
+</LexicalResource>
