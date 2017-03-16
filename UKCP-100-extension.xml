@@ -5,7 +5,7 @@
 <LexicalResource
     name="UKCP-100-extension"       
     prefix="ex1" 
-    xmlns:ex="https://github.com/francisjqr/ER-Wordnet-Extension/blob/master/UKCP-100-extension.xml"
+    xmlns:ex1="https://github.com/francisjqr/ER-Wordnet-Extension/blob/master/UKCP-100-extension.xml"
     xmlns:wn31="https://github.com/diversicon-kb/diversicon-wordnet-3.1"
          
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -48,7 +48,7 @@
                     writtenForm="access control point"/>
             </Lemma>
             <Sense id="ex1_s_access_control_point" 
-                synset="ex1_ss_access-control_point">
+                synset="ex1_ss_access_control_point">
                 <MonolingualExternalRef externalSystem="UKCP" 
                     externalReference="Line 9, Column 1 in CSV"/>
             </Sense>
@@ -61,7 +61,7 @@
                     writtenForm="agency"/>
             </Lemma>
             <Sense id="ex1_s_agency" 
-                synset="n-08024893">
+                synset="wn31_ss_n8024893">
                 <MonolingualExternalRef externalSystem="UKCP" 
                     externalReference="Line 15, Column 1 in CSV"/>
             </Sense>
@@ -753,7 +753,7 @@
                     writtenForm="loading point"/>
             </Lemma>
             <Sense id="ex1_s_loading_point" 
-                synset="n-08560786">
+                synset="wn31_ss_n8560786">
                 <MonolingualExternalRef externalSystem="UKCP" 
                     externalReference="Line 406, Column 1 in CSV"/>
             </Sense>
@@ -870,7 +870,7 @@
                     writtenForm="media protocol"/>
             </Lemma>
             <Sense id="ex1_s_media_protocol" 
-                synset="ex1_ss_media_liaison_protocol">
+                synset="ex1_ss_media_protocol">
                 <MonolingualExternalRef externalSystem="UKCP" 
                     externalReference="Line 450, Column 1 in CSV"/>
             </Sense>
@@ -1211,7 +1211,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 785, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08705985"
+            <SynsetRelation target="wn31_ss_n8705985"
                 relType="taxonomic" 
                 relName="hypernym"/>
         </Synset>
@@ -1224,7 +1224,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 763, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-09411430"
+            <SynsetRelation target="wn31_ss_n9434308"
                 relType="taxonomic" 
                 relName="hypernym"/>
         </Synset>
@@ -1237,7 +1237,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 753, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08393679"
+            <SynsetRelation target="wn31_ss_n8393679"
                 relType="taxonomic" 
                 relName="hypernym"/>
         </Synset>
@@ -1316,7 +1316,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 665, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/>
         </Synset>
@@ -1329,10 +1329,10 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 644, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05846685"
+            <SynsetRelation target="wn31_ss_n5846685"
                 relType="taxonomic" 
                 relName="hypernym"/>
-            <SynsetRelation target="n-00038116"
+            <SynsetRelation target="wn31_ss_n38116"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1345,7 +1345,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 642, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1358,7 +1358,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 634, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1371,7 +1371,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 612, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-03545775"
+            <SynsetRelation target="wn31_ss_n3545775"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1384,7 +1384,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 587, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1397,7 +1397,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 571, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1410,7 +1410,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 542, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08393679"
+            <SynsetRelation target="wn31_ss_n8393679"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1423,7 +1423,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 513, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1449,7 +1449,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 495, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08451269"
+            <SynsetRelation target="wn31_ss_n8451269"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1462,7 +1462,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 487, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-01219005"
+            <SynsetRelation target="wn31_ss_n1219005"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1475,7 +1475,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 455, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-00055641"
+            <SynsetRelation target="wn31_ss_n55641"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1488,7 +1488,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 450, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05676759"
+            <SynsetRelation target="wn31_ss_n5676759"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1501,7 +1501,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 448, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1514,7 +1514,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 447, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-10541628"
+            <SynsetRelation target="wn31_ss_n10541628"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1527,7 +1527,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 444, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1541,7 +1541,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 440, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-00055641"
+            <SynsetRelation target="wn31_ss_n55641"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1555,7 +1555,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 436, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-02738693"
+            <SynsetRelation target="wn31_ss_n2738693"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1581,7 +1581,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 423, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-07315954"
+            <SynsetRelation target="wn31_ss_n7315954"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1607,7 +1607,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 401, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05101152"
+            <SynsetRelation target="wn31_ss_n5101152"
                 relType="taxonomic" 
                 relName="hypernym"/> 
             <SynsetRelation target="ex1_ss_emergency"
@@ -1636,7 +1636,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 390, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-00055641"
+            <SynsetRelation target="wn31_ss_n55641"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1649,7 +1649,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 372, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08393679"
+            <SynsetRelation target="wn31_ss_n8393679"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1662,10 +1662,10 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 364, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-07298313"
+            <SynsetRelation target="wn31_ss_n7298313"
                 relType="taxonomic" 
                 relName="hypernym"/> 
-            <SynsetRelation target="n-13950416"
+            <SynsetRelation target="wn31_ss_n13950416"
                 relType="taxonomic" 
                 relName="hypernym"/> 
         </Synset>
@@ -1678,7 +1678,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 354, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08705985"
+            <SynsetRelation target="wn31_ss_n8705985"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1691,7 +1691,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 352, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1704,7 +1704,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 349, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-02738693"
+            <SynsetRelation target="wn31_ss_n2738693"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1717,11 +1717,11 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 340, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-04409881"
+            <SynsetRelation target="wn31_ss_n4409881"
                 relType="taxonomic" 
                 relName="hypernym"/> 
             
-            <SynsetRelation target="n-06289979"
+            <SynsetRelation target="wn31_ss_n6289979"
                 relType="taxonomic" 
                 relName="hypernym"/>
         </Synset>
@@ -1747,7 +1747,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 261, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08705985"
+            <SynsetRelation target="wn31_ss_n8705985"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1760,7 +1760,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 255, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1773,7 +1773,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 221, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-07431314"
+            <SynsetRelation target="wn31_ss_n7431314"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1786,7 +1786,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 218, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-09411430"
+            <SynsetRelation target="wn31_ss_n9434308"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1812,7 +1812,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 200, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-03545775"
+            <SynsetRelation target="wn31_ss_n3545775"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1825,7 +1825,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 189, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1838,7 +1838,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 182, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1877,7 +1877,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 146, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-02738693"
+            <SynsetRelation target="wn31_ss_n2738693"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1890,7 +1890,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 140, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-03319968"
+            <SynsetRelation target="wn31_ss_n3319968"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1903,7 +1903,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 116, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05676759"
+            <SynsetRelation target="wn31_ss_n5676759"
                 relType="taxonomic" 
                 relName="hypernym"/>    
         </Synset>
@@ -1917,7 +1917,7 @@
             <SynsetRelation target="ex1_ss_command_and_control"
                 relType="taxonomic" 
                 relName="hypernym"/>
-            <SynsetRelation target="n-14451564"
+            <SynsetRelation target="wn31_ss_n14451564"
                 relType="taxonomic" 
                 relName="hypernym"/>  
         </Synset>
@@ -1930,10 +1930,10 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 115, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05205065"
+            <SynsetRelation target="wn31_ss_n5205065"
                 relType="taxonomic" 
                 relName="hypernym"/>
-            <SynsetRelation target="n-05203643"
+            <SynsetRelation target="wn31_ss_n5203643"
                 relType="taxonomic" 
                 relName="hypernym"/>  
         </Synset>
@@ -1946,7 +1946,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 112, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08705985"
+            <SynsetRelation target="wn31_ss_n8705985"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -1998,7 +1998,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 78, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-13832535"
+            <SynsetRelation target="wn31_ss_n13832535"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2011,7 +2011,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 77, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-06485234"
+            <SynsetRelation target="wn31_ss_n6485234"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2024,7 +2024,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 75, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-10541628"
+            <SynsetRelation target="wn31_ss_n10541628"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2037,7 +2037,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 74, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-06271913"
+            <SynsetRelation target="wn31_ss_n6271913"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2050,7 +2050,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 71, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-04537861"
+            <SynsetRelation target="wn31_ss_n4537861"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2063,7 +2063,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 71, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-00007846"
+            <SynsetRelation target="wn31_ss_n7846"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2076,7 +2076,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 67, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-05207437"
+            <SynsetRelation target="wn31_ss_n5207437"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2102,7 +2102,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 49, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-02738693"
+            <SynsetRelation target="wn31_ss_n2738693"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2115,7 +2115,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 47, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2129,7 +2129,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 45, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08633886"
+            <SynsetRelation target="wn31_ss_n8633886"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2142,7 +2142,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 43, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-01212066"
+            <SynsetRelation target="wn31_ss_n1212066"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2155,7 +2155,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 34, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-03319968"
+            <SynsetRelation target="wn31_ss_n3319968"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset>
@@ -2168,7 +2168,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 21, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-04048624"
+            <SynsetRelation target="wn31_ss_n4048624"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset> 
@@ -2181,7 +2181,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 18, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-02689427"
+            <SynsetRelation target="wn31_ss_n2689427"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset> 
@@ -2197,7 +2197,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 8, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08024893"
+            <SynsetRelation target="wn31_ss_n8024893"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset> 
@@ -2212,7 +2212,7 @@
             <MonolingualExternalRef externalSystem="UKCP" 
                 externalReference="Line 9, Column 1 in CSV"/>
             
-            <SynsetRelation target="n-08637636"
+            <SynsetRelation target="wn31_ss_n8637636"
                 relType="taxonomic" 
                 relName="hypernym"/>   
         </Synset> 
