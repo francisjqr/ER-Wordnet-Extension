@@ -4,10 +4,18 @@ Example for ISCRAM 2017, describing an Emergency Response (ER) extension for Wor
 
 ## Content
 
-| Terms |
-| ------------- |:-------------:| -----:|-----:|-----:|
-|	Agency	|	Air ambulance	|	Environment Agency	|	Medevac	|	Responder	|
-
+<table>
+    <tr>
+        <td>Terms</td>
+    </tr>
+    <tr>
+        <td>Agency</td>
+        <td>Air ambulance</td>
+        <td>Environment Agency</td>
+        <td>Medevac</td>
+        <td>Responder</td>
+    </tr>
+</table>
 
 
 ## Annotation
