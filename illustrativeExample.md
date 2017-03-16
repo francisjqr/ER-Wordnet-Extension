@@ -32,9 +32,7 @@ Extending WordNet to improve semantic matching in Emergency Response scenarios.
 
 ### Referencing this dataset
 	
-	> Quesada Real, Francisco J (2017): UKCP-100-extension.xml. figshare.
-	> https://doi.org/10.6084/m9.figshare.4758004.v1
-	> Retrieved: 12 45, Mar 16, 2017 (GMT)
+	> Quesada Real, Francisco J (2017): UKCP-100-extension.xml. figshare. https://doi.org/10.6084/m9.figshare.4758004.v1. Retrieved: 12 45, Mar 16, 2017 (GMT)
 
 ### Source
 
