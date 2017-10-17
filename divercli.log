@@ -1,0 +1,9 @@
+238  [main] INFO  eu.kidf.diversicon.cli.DiverCli - 
+310  [main] ERROR eu.kidf.diversicon.cli.DiverCli - 
+310  [main] ERROR eu.kidf.diversicon.cli.DiverCli - Project directory should contain configuration file divercli.ini but couldn't find it! Looked in: /Users/francis/MarieCurieESR/PhD/Resources/publicResources(GitHub)/ER_WordNet-Extension/divercli.ini (For details, see divercli.log)
+314  [main] ERROR e.k.diversicon.cli.DiverCli.details - 
+eu.kidf.diversicon.cli.exceptions.DiverCliNotFoundException: Project directory should contain configuration file divercli.ini but couldn't find it! Looked in: /Users/francis/MarieCurieESR/PhD/Resources/publicResources(GitHub)/ER_WordNet-Extension/divercli.ini
+	at eu.kidf.diversicon.cli.DiverCli.checkProjectDir(DiverCli.java:929) ~[divercli-0.1.0-SNAPSHOT.jar:0.1.0-SNAPSHOT]
+	at eu.kidf.diversicon.cli.DiverCli.configureProject(DiverCli.java:508) ~[divercli-0.1.0-SNAPSHOT.jar:0.1.0-SNAPSHOT]
+	at eu.kidf.diversicon.cli.DiverCli.run(DiverCli.java:429) ~[divercli-0.1.0-SNAPSHOT.jar:0.1.0-SNAPSHOT]
+	at eu.kidf.diversicon.cli.DiverCli.main(DiverCli.java:284) ~[divercli-0.1.0-SNAPSHOT.jar:0.1.0-SNAPSHOT]

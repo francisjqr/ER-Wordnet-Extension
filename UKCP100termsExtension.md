@@ -68,7 +68,7 @@ Dataset with 100 terms of the UKCP lexicon
     	<td>Downstream</td>
     	<td>Emergency</td>
     	<td>Evacuation</td>
-    	<td>Evacuation assemble point</td>
+    	<td>Evacuation assembly point</td>
     	<td>Event</td>
     </tr>
     <tr>
@@ -138,8 +138,8 @@ Dataset with 100 terms of the UKCP lexicon
     	<td>Serious emergency</td>
     	<td>Significant emergency</td>
     	<td>Silver</td>
-    	<td>Small scale emergency</td>
-    	<td>Spontaneous emergency</td>
+    	<td>Small scale evacuation</td>
+    	<td>Spontaneous incident</td>
     </tr>
     <tr>
     	<td>Strategic</td>
